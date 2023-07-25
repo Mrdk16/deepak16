@@ -1,6 +1,6 @@
 package com.rays.test;
 import java.util.Date;
-public class testdate {
+public class TestDate {
 
 public static void main(String[] args) {
 

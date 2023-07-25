@@ -1,6 +1,6 @@
 package com.rays.test;
 
-public class testarr {
+public class TestArr {
 	
 	public static void main(String[] args) {
 		  int [] []table = new int [10][10];
